@@ -1,0 +1,1 @@
+./cap_leak "echo secret message >& 3"
